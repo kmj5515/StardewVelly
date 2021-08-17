@@ -1,0 +1,99 @@
+﻿  AstarScene.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\AstarScene.cpp(25,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\AstarScene.cpp(26,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\AstarScene.cpp(27,14): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\AstarScene.cpp(325,32): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\AstarScene.cpp(379,45): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BusScene.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Button.cpp
+  CaveScene.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Clock.cpp
+  CollisionManager.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Enemy.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Enemy.cpp(18,14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Enemy.cpp(19,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Enemy.cpp(65,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Enemy.cpp(65,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Enemy.cpp(69,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Enemy.cpp(69,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemyManager.cpp
+  Energy.cpp
+  FarmScene.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(18,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(18,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(24,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(24,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(105,48): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(106,48): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(110,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(111,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(198,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(198,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(224,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(223,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(231,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(230,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(239,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(238,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(246,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(245,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(253,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(252,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(347,33): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(351,33): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(355,33): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\FarmScene.cpp(359,33): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameData.cpp
+  GameNode.cpp
+  Image.cpp
+  ImageManager.cpp
+  InvenScene.cpp
+  KeyManager.cpp
+  LoadingEnding.cpp
+  LoadingScene.cpp
+  LoadingSleep.cpp
+  main.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\main.cpp(37,50): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\main.cpp(109,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  MainGame.cpp
+  MyHouseScene.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PlayerShip.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.cpp(25,21): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.cpp(26,21): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.cpp(52,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.cpp(52,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.cpp(120,35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.cpp(121,35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\SceneManager.cpp(71,36): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SmallInven.cpp
+  StartScene.cpp
+  StoreScene.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\PlayerShip.h(52,67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TalkScene.cpp
+  TilemapTool.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\TilemapTool.cpp(364,91): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Timer.cpp(8,16): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Timer.cpp(9,16): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Timer.cpp(10,23): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Timer.cpp(13,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\com\Desktop\스타듀밸리\210317_WinAPI\Timer.cpp(52,25): warning C4244: '=': 'float'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimerManager.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 798 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  210317_WinAPI.vcxproj -> C:\Users\com\Desktop\스타듀밸리\x64\Release\210317_WinAPI.exe
